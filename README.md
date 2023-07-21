@@ -1,4 +1,5 @@
 ### ThermoD_Cam
+Please be sure to use the hardware specified in the paper (Miller et al. Nature Metabolism 2023) and observe all of the version requirements below!
 
 Requirements:
 •	Windows 10
